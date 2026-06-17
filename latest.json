@@ -1,13 +1,26 @@
 {
-  "latestVersionCode": 15,
-  "latestVersionName": "0.8.3",
-  "minimumRequiredVersionCode": 14,
-  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.8.3/LoveForTwo-v0.8.3.apk",
-  "apkSha256": "optional-sha256-here",
-  "changelog": [
-    "Am imbunatatit popup-ul de update",
-    "Am reparat Notitele voastre",
-    "Am adaugat notificari locale de inactivitate si widget configurabil"
+  "latestVersionCode": 16,
+  "latestVersionName": "0.8.4",
+  "minimumRequiredVersionCode": 16,
+  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.8.4/LoveForTwo-v0.8.4.apk",
+  "apkSha256": "",
+  "changelogRo": [
+    "Actualizare obligatorie la v0.8.4",
+    "Changelog în română și engleză",
+    "Cooldown pentru iubire schimbat la 1 oră",
+    "Notițe cu toolbar de formatare",
+    "Widget orizontal cu Preview"
   ],
-  "forceUpdate": false
+  "changelogEn": [
+    "Required update to v0.8.4",
+    "Romanian and English changelog",
+    "Love cooldown changed to 1 hour",
+    "Notes formatting toolbar",
+    "Horizontal widget with Preview"
+  ],
+  "changelog": [
+    "Required update to v0.8.4",
+    "Bug fixes and UI improvements"
+  ],
+  "forceUpdate": true
 }
