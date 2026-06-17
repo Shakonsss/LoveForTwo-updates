@@ -1,0 +1,12 @@
+{
+  "latestVersionCode": 14,
+  "latestVersionName": "0.8.2",
+  "minimumRequiredVersionCode": 13,
+  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.8.2/LoveForTwo-v0.8.2.apk",
+  "apkSha256": "",
+  "changelog": [
+    "Bug fixes",
+    "Design improvements"
+  ],
+  "forceUpdate": false
+}
