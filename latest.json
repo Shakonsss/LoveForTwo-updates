@@ -1,11 +1,13 @@
 {
-  "latestVersionCode": 14,
-  "latestVersionName": "0.8.2",
+  "latestVersionCode": 15,
+  "latestVersionName": "0.8.3",
   "minimumRequiredVersionCode": 14,
-  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.8.1/LoveForTwo-v0.8.1.apk",
-  "apkSha256": "",
+  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.8.3/LoveForTwo-v0.8.3.apk",
+  "apkSha256": "optional-sha256-here",
   "changelog": [
-    "Prima Versiune Oficiala Lansata v0.8.2"
+    "Am imbunatatit popup-ul de update",
+    "Am reparat Notitele voastre",
+    "Am adaugat notificari locale de inactivitate si widget configurabil"
   ],
   "forceUpdate": false
 }
