@@ -1,13 +1,11 @@
 {
-  "latestVersionCode": 13,
-  "latestVersionName": "0.8.1",
-  "minimumRequiredVersionCode": 12,
+  "latestVersionCode": 14,
+  "latestVersionName": "0.8.2",
+  "minimumRequiredVersionCode": 14,
   "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.8.1/LoveForTwo-v0.8.1.apk",
   "apkSha256": "",
   "changelog": [
-    "Sistem de actualizare cu descarcare in aplicatie",
-    "Progres vizibil la download",
-    "Pornire installer Android dupa descarcare"
+    "Prima Versiune Oficiala Lansata v0.8.2"
   ],
   "forceUpdate": false
 }
