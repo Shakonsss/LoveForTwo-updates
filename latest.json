@@ -1,24 +1,32 @@
 {
-  "latestVersionCode": 18,
-  "latestVersionName": "0.10.0",
+  "latestVersionCode": 19,
+  "latestVersionName": "0.11.0",
   "minimumRequiredVersionCode": 18,
-  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.10.0/LoveForTwo-v0.10.0.apk",
+  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.11.0/LoveForTwo-v0.11.0.apk",
   "apkSha256": "",
   "changelogRo": [
-    "Flux nou Conectează-te / Înregistrează-te cu profil Google",
-    "Salvarea contului anonim în Google fără schimbarea UID-ului",
-    "Realizări cu recompense XP și statistici detaliate",
-    "Istoric pentru Întrebarea zilei și îmbunătățiri pentru Notițe",
-    "Widget configurabil și verificare obligatorie a actualizării",
-    "Traduceri RO/EN stabilizate și îmbunătățiri generale de interfață"
+    "Am adăugat notificări interne animate în aplicație",
+    "Am îmbunătățit notificările pentru mesaje, desene și reacții",
+    "Am reparat animația XP ca să nu mai afișeze +0 XP",
+    "Am adăugat data și ora mesajelor la apăsare lungă",
+    "Am redesenat secțiunea Statistici",
+    "Am extins sistemul de Realizări cu categorii și recompense XP",
+    "Am adăugat pagini multiple în Notițele voastre",
+    "Am îmbunătățit configurarea widget-ului și previzualizarea",
+    "Am adăugat bară de anunțuri controlată din Firebase",
+    "Am îmbunătățit ecranul de început și fluxul fără cont"
   ],
-  "changelogEn": [
-    "New Sign in / Register flow with Google profiles",
-    "Save anonymous accounts to Google without changing the UID",
-    "Achievements with XP rewards and detailed statistics",
-    "Question of the Day history and Notes improvements",
-    "Configurable widget and mandatory update checks",
-    "Stabilized RO/EN translations and general UI improvements"
+   "changelogEn": [
+    "Added animated in-app notifications",
+    "Improved notifications for messages, drawings, and reactions",
+    "Fixed the XP animation so it no longer shows +0 XP",
+    "Added message date and time on long press",
+    "Redesigned the Statistics section",
+    "Expanded Achievements with categories and XP rewards",
+    "Added multiple pages to Your Notes",
+    "Improved widget configuration and preview",
+    "Added a Firebase-controlled announcement bar",
+    "Improved the welcome screen and no-account flow"
   ],
-  "forceUpdate": true
+  "forceUpdate": false
 }
