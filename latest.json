@@ -1,32 +1,41 @@
 {
-  "latestVersionCode": 19,
-  "latestVersionName": "0.11.0",
-  "minimumRequiredVersionCode": 18,
-  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.11.0/LoveForTwo-v0.11.0.apk",
+  "latestVersionCode": 20,
+  "latestVersionName": "0.12.0",
+  "minimumRequiredVersionCode": 19,
+  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.12.0/LoveForTwo-v0.12.0.apk",
   "apkSha256": "",
   "changelogRo": [
-    "Am adăugat notificări interne animate în aplicație",
-    "Am îmbunătățit notificările pentru mesaje, desene și reacții",
-    "Am reparat animația XP ca să nu mai afișeze +0 XP",
-    "Am adăugat data și ora mesajelor la apăsare lungă",
-    "Am redesenat secțiunea Statistici",
-    "Am extins sistemul de Realizări cu categorii și recompense XP",
-    "Am adăugat pagini multiple în Notițele voastre",
-    "Am îmbunătățit configurarea widget-ului și previzualizarea",
-    "Am adăugat bară de anunțuri controlată din Firebase",
-    "Am îmbunătățit ecranul de început și fluxul fără cont"
+    "Verificare completă pentru notificările interne și Android",
+    "Notificări interne mai bine poziționate și clickabile",
+    "Îmbunătățiri pentru widget și layout adaptiv",
+    "Corectări pentru porecle și profil",
+    "Îmbunătățiri pentru Realizări și punct de notificare",
+    "Corectări pentru Notițele voastre",
+    "Loading mai curat la căutarea actualizărilor",
+    "Buton nou: Ce e nou?",
+    "Versiunea aplicației este salvată în Firebase",
+    "Aniversări și Evenimente cu Adaugă Eveniment extensibil",
+    "Texte actualizate: Bărbat/Femeie",
+    "Tema aplicației este salvată în Firebase",
+    "Buton Jocuri pregătit pentru un update viitor"
   ],
-   "changelogEn": [
-    "Added animated in-app notifications",
-    "Improved notifications for messages, drawings, and reactions",
-    "Fixed the XP animation so it no longer shows +0 XP",
-    "Added message date and time on long press",
-    "Redesigned the Statistics section",
-    "Expanded Achievements with categories and XP rewards",
-    "Added multiple pages to Your Notes",
-    "Improved widget configuration and preview",
-    "Added a Firebase-controlled announcement bar",
-    "Improved the welcome screen and no-account flow"
+  "changelogEn": [
+    "Full review for in-app and Android notifications",
+    "Better positioned and clickable in-app notifications",
+    "Widget improvements and adaptive layout",
+    "Nickname and profile fixes",
+    "Achievements improvements and notification dot",
+    "Notes fixes",
+    "Cleaner loading screen while checking for updates",
+    "New What's new? button",
+    "App version is saved in Firebase",
+    "Anniversaries and Events with expandable Add Event section",
+    "Updated gender labels: Man/Woman",
+    "App theme is saved in Firebase",
+    "Games button prepared for a future update"
+  ],
+  "changelog": [
+    "Notification, widget, achievements, notes and settings improvements"
   ],
   "forceUpdate": false
 }
