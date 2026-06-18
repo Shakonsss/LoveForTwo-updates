@@ -1,10 +1,24 @@
 {
-  "latestVersionCode": 17,
-  "latestVersionName": "0.9.0",
-  "minimumRequiredVersionCode": 17,
-  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.9.0/LoveForTwo-v0.9.0.apk",
+  "latestVersionCode": 18,
+  "latestVersionName": "0.10.0",
+  "minimumRequiredVersionCode": 18,
+  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.10.0/LoveForTwo-v0.10.0.apk",
   "apkSha256": "",
-  "changelogRo": ["Profil și salvare cont Google", "Update automat și îmbunătățiri UI"],
-  "changelogEn": ["Profile and Google account saving", "Automatic updates and UI improvements"],
+  "changelogRo": [
+    "Flux nou Conectează-te / Înregistrează-te cu profil Google",
+    "Salvarea contului anonim în Google fără schimbarea UID-ului",
+    "Realizări cu recompense XP și statistici detaliate",
+    "Istoric pentru Întrebarea zilei și îmbunătățiri pentru Notițe",
+    "Widget configurabil și verificare obligatorie a actualizării",
+    "Traduceri RO/EN stabilizate și îmbunătățiri generale de interfață"
+  ],
+  "changelogEn": [
+    "New Sign in / Register flow with Google profiles",
+    "Save anonymous accounts to Google without changing the UID",
+    "Achievements with XP rewards and detailed statistics",
+    "Question of the Day history and Notes improvements",
+    "Configurable widget and mandatory update checks",
+    "Stabilized RO/EN translations and general UI improvements"
+  ],
   "forceUpdate": true
 }
