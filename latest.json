@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 19,
-  "latestVersionName": "0.11.0",
-  "minimumRequiredVersionCode": 18,
-  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.11.0/LoveForTwo-v0.11.0.apk",
+  "latestVersionCode": 18,
+  "latestVersionName": "0.10.0",
+  "minimumRequiredVersionCode": 17,
+  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.10.0/LoveForTwo-v0.10.0.apk",
   "apkSha256": "",
   "changelogRo": [
     "Am adăugat notificări interne animate în aplicație",
