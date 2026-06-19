@@ -13,10 +13,7 @@
     "Firestore salvează doar appVersionName",
     "Meniu Jocuri pregătit pentru update-uri viitoare",
     "Teme noi: Apus de soare și Negru minimalist",
-    "Widget îmbunătățit cu previzualizare fixă și layout mai bun",
-    "Animații noi: confetti la level up și inimă pulsantă",
-    "Îmbunătățiri pentru iubirea reciprocă",
-    "Profilul tău a fost redenumit în Contul tău"
+    "Widget îmbunătățit cu previzualizare fixă și layout mai bun"
   ],
   "changelogEn": [
     "Notes improvements: toolbar, keyboard behavior and page titles",
@@ -27,10 +24,7 @@
     "Firestore now stores only appVersionName",
     "Games menu prepared for future updates",
     "New themes: Sunset and Minimal Black",
-    "Improved widget with sticky preview and better layout",
-    "New animations: level-up confetti and pulsing heart",
-    "Reciprocal love improvements",
-    "Your profile was renamed to Your account"
+    "Improved widget with sticky preview and better layout"
   ],
   "changelog": [
     "Notes, achievements, widget, themes, games and love interaction improvements"
