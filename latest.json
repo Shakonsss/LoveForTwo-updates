@@ -24,13 +24,7 @@
     "The Anniversaries and Events list now has clearer actions",
     "Widget improvements for preview, themes and a consistent level bar",
     "Question of the Day reminder no longer appears after you answered",
-    "Improved vibration and animation when sending love",
-    "The heart no longer animates when returning to the main menu",
-    "Notes now support full deletion, instant checklists, a larger editor and Cancel",
-    "Locked achievements appear last and Burning week was removed",
-    "Offline mode shows No connection and blocks online actions",
-    "The main menu and Games list were reorganized",
-    "Cleaner loading screen with only the logo and progress indicator"
+
   ],
   "changelog": [
     "Offline mode, notes, widget, achievements, themes, games and interaction improvements"
