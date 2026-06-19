@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 22,
+  "latestVersionCode": 21,
   "latestVersionName": "0.14.0",
-  "minimumRequiredVersionCode": 21,
+  "minimumRequiredVersionCode": 20,
   "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.14.0/LoveForTwo-v0.14.0.apk",
   "apkSha256": "",
   "changelogRo": [
