@@ -1,41 +1,41 @@
 {
-  "latestVersionCode": 20,
-  "latestVersionName": "0.12.0",
-  "minimumRequiredVersionCode": 19,
-  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.12.0/LoveForTwo-v0.12.0.apk",
+  "latestVersionCode": 21,
+  "latestVersionName": "0.13.0",
+  "minimumRequiredVersionCode": 21,
+  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.13.0/LoveForTwo-v0.13.0.apk",
   "apkSha256": "",
   "changelogRo": [
-    "Verificare completă pentru notificările interne și Android",
-    "Notificări interne mai bine poziționate și clickabile",
-    "Îmbunătățiri pentru widget și layout adaptiv",
-    "Corectări pentru porecle și profil",
-    "Îmbunătățiri pentru Realizări și punct de notificare",
-    "Corectări pentru Notițele voastre",
-    "Loading mai curat la căutarea actualizărilor",
-    "Buton nou: Ce e nou?",
-    "Versiunea aplicației este salvată în Firebase",
-    "Aniversări și Evenimente cu Adaugă Eveniment extensibil",
-    "Texte actualizate: Bărbat/Femeie",
-    "Tema aplicației este salvată în Firebase",
-    "Buton Jocuri pregătit pentru un update viitor"
+    "Îmbunătățiri pentru Notițele voastre: toolbar, tastatură și titluri pe pagini",
+    "Detalii mai clare pentru Aniversări și Evenimente",
+    "Realizări reorganizate, sortate și funcționale",
+    "Realizări noi pentru mesaje, iubire, nivel și streak",
+    "Curățare invite code-uri vechi",
+    "Firestore salvează doar appVersionName",
+    "Meniu Jocuri pregătit pentru update-uri viitoare",
+    "Teme noi: Apus de soare și Negru minimalist",
+    "Avatar cu poză din galerie",
+    "Widget îmbunătățit cu previzualizare fixă și layout mai bun",
+    "Animații noi: confetti la level up și inimă pulsantă",
+    "Îmbunătățiri pentru iubirea reciprocă",
+    "Profilul tău a fost redenumit în Contul tău"
   ],
   "changelogEn": [
-    "Full review for in-app and Android notifications",
-    "Better positioned and clickable in-app notifications",
-    "Widget improvements and adaptive layout",
-    "Nickname and profile fixes",
-    "Achievements improvements and notification dot",
-    "Notes fixes",
-    "Cleaner loading screen while checking for updates",
-    "New What's new? button",
-    "App version is saved in Firebase",
-    "Anniversaries and Events with expandable Add Event section",
-    "Updated gender labels: Man/Woman",
-    "App theme is saved in Firebase",
-    "Games button prepared for a future update"
+    "Notes improvements: toolbar, keyboard behavior and page titles",
+    "Clearer details for Anniversaries and Events",
+    "Achievements reorganized, sorted and fully functional",
+    "New achievements for messages, love, level and streak",
+    "Old invite codes cleanup",
+    "Firestore now stores only appVersionName",
+    "Games menu prepared for future updates",
+    "New themes: Sunset and Minimal Black",
+    "Avatar photo from gallery",
+    "Improved widget with sticky preview and better layout",
+    "New animations: level-up confetti and pulsing heart",
+    "Reciprocal love improvements",
+    "Your profile was renamed to Your account"
   ],
   "changelog": [
-    "Notification, widget, achievements, notes and settings improvements"
+    "Notes, achievements, widget, themes, avatar, games and love interaction improvements"
   ],
-  "forceUpdate": false
+  "forceUpdate": true
 }
