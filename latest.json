@@ -1,31 +1,39 @@
 {
-  "latestVersionCode": 21,
-  "latestVersionName": "0.13.0",
+  "latestVersionCode": 22,
+  "latestVersionName": "0.14.0",
   "minimumRequiredVersionCode": 21,
-  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.13.0/LoveForTwo-v0.13.0.apk",
+  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.14.0/LoveForTwo-v0.14.0.apk",
   "apkSha256": "",
   "changelogRo": [
-    "Îmbunătățiri pentru Notițele voastre: toolbar, tastatură și titluri pe pagini",
-    "Detalii mai clare pentru Aniversări și Evenimente",
-    "Realizări noi pentru mesaje, iubire, nivel și streak",
-    "Curățare invite code-uri vechi",
-    "Firestore salvează doar appVersionName",
-    "Meniu Jocuri pregătit pentru update-uri viitoare",
-    "Teme noi: Apus de soare și Negru minimalist",
-    "Widget îmbunătățit cu previzualizare fixă și layout mai bun"
+    "Genul este salvat ca Man/Woman în Firebase, cu migrare pentru valorile vechi",
+    "Tema Sunset a fost îmbunătățită și tema Personalizată a fost pregătită",
+    "Lista de Aniversări și Evenimente are acțiuni mai clare",
+    "Widget îmbunătățit: preview, teme și bară de nivel consecventă",
+    "Reminderul pentru Întrebarea zilei nu mai apare după ce ai răspuns",
+    "Vibrație și animație îmbunătățite la trimiterea iubirii",
+    "Animația inimii nu mai pornește la revenirea în meniul principal",
+    "Notițele au ștergere completă, checklist instant, editor mai mare și Anulează",
+    "Realizările blocate apar ultimele, iar Săptămână aprinsă a fost eliminată",
+    "Mod offline cu mesaj Fără conexiune și blocarea acțiunilor online",
+    "Meniul principal și lista Jocuri au fost reorganizate",
+    "Ecran de încărcare mai curat, doar cu logo și indicator"
   ],
   "changelogEn": [
-    "Notes improvements: toolbar, keyboard behavior and page titles",
-    "Clearer details for Anniversaries and Events",
-    "New achievements for messages, love, level and streak",
-    "Old invite codes cleanup",
-    "Firestore now stores only appVersionName",
-    "Games menu prepared for future updates",
-    "New themes: Sunset and Minimal Black",
-    "Improved widget with sticky preview and better layout"
+    "Gender is saved as Man/Woman in Firebase, with migration for old values",
+    "Sunset theme was improved and the Custom theme was prepared",
+    "The Anniversaries and Events list now has clearer actions",
+    "Widget improvements for preview, themes and a consistent level bar",
+    "Question of the Day reminder no longer appears after you answered",
+    "Improved vibration and animation when sending love",
+    "The heart no longer animates when returning to the main menu",
+    "Notes now support full deletion, instant checklists, a larger editor and Cancel",
+    "Locked achievements appear last and Burning week was removed",
+    "Offline mode shows No connection and blocks online actions",
+    "The main menu and Games list were reorganized",
+    "Cleaner loading screen with only the logo and progress indicator"
   ],
   "changelog": [
-    "Notes, achievements, widget, themes, games and love interaction improvements"
+    "Offline mode, notes, widget, achievements, themes, games and interaction improvements"
   ],
-  "forceUpdate": true
+  "forceUpdate": false
 }
