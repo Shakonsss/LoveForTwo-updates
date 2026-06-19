@@ -7,7 +7,6 @@
   "changelogRo": [
     "Îmbunătățiri pentru Notițele voastre: toolbar, tastatură și titluri pe pagini",
     "Detalii mai clare pentru Aniversări și Evenimente",
-    "Realizări reorganizate, sortate și funcționale",
     "Realizări noi pentru mesaje, iubire, nivel și streak",
     "Curățare invite code-uri vechi",
     "Firestore salvează doar appVersionName",
@@ -18,7 +17,6 @@
   "changelogEn": [
     "Notes improvements: toolbar, keyboard behavior and page titles",
     "Clearer details for Anniversaries and Events",
-    "Achievements reorganized, sorted and fully functional",
     "New achievements for messages, love, level and streak",
     "Old invite codes cleanup",
     "Firestore now stores only appVersionName",
