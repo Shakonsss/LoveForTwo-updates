@@ -1,27 +1,22 @@
-{
-  "latestVersionCode": 26,
-  "latestVersionName": "0.17.0",
-  "minimumRequiredVersionCode": 26,
-  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.17.0/LoveForTwo-v0.17.0.apk",
+atestVersionCode": 27,
+  "latestVersionName": "0.18.0",
+  "minimumRequiredVersionCode": 27,
+  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.18.0/LoveForTwo-v0.18.0.apk",
   "apkSha256": "",
   "changelogRo": [
-    "Culori reparate pentru toate temele",
-    "Personalizare îmbunătățită cu gradient și culori HEX",
-    "Culoarea accent se aplică barei de nivel din widget",
-    "Undo și Redo pentru desenele din chat",
-    "Editare mai confortabilă pentru Notițele voastre",
-    "Chat-ul se deschide direct la ultimele mesaje"
+    "Previzualizare temă personalizată îmbunătățită",
+    "Fundalul personalizat este mai vizibil în preview",
+    "Selector vizual de culoare adăugat",
+    "Butoane secundare afișate în previzualizare"
   ],
   "changelogEn": [
-    "Fixed colors for all themes",
-    "Improved customization with gradient and HEX colors",
-    "Accent color now applies to the widget level bar",
-    "Undo and Redo for chat drawings",
-    "More comfortable editing for Notes",
-    "Chat now opens directly at the latest messages"
+    "Improved custom theme preview",
+    "Custom background is more visible in preview",
+    "Visual color picker added",
+    "Secondary buttons are now shown in preview"
   ],
   "changelog": [
-    "Theme, customization, notes and chat improvements"
+    "Custom theme preview and visual color picker"
   ],
   "forceUpdate": true
 }
