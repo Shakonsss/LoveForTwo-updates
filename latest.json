@@ -1,39 +1,27 @@
 {
-  "latestVersionCode": 25,
-  "latestVersionName": "0.16.0",
-  "minimumRequiredVersionCode": 25,
-  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.16.0/LoveForTwo-v0.16.0.apk",
+  "latestVersionCode": 26,
+  "latestVersionName": "0.17.0",
+  "minimumRequiredVersionCode": 26,
+  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.17.0/LoveForTwo-v0.17.0.apk",
   "apkSha256": "",
   "changelogRo": [
-    "Personalizarea widget-ului a fost reparată pentru Gradient și Estompat",
-    "Palete de culori cu swipe pentru personalizare",
-    "Personalizarea aplicației are acum o previzualizare mai realistă",
-    "Tema Personalizare rămâne selectată după salvare",
-    "Notificare Android la fiecare level up",
-    "Layout reparat la Notițele voastre când apare tastatura",
-    "Editarea și ștergerea evenimentelor au fost mutate în Detalii eveniment",
-    "Îmbunătățiri pentru X & O: joc început, notificări, scor și delay mai mic",
-    "Setare nouă pentru notificările de la jocuri",
-    "Contrast reparat în popup-ul de update",
-    "Vibrații mai rapide la trimiterea iubirii",
-    "Status offline corect în Contul tău și acțiuni blocate offline"
+    "Culori reparate pentru toate temele",
+    "Personalizare îmbunătățită cu gradient și culori HEX",
+    "Culoarea accent se aplică barei de nivel din widget",
+    "Undo și Redo pentru desenele din chat",
+    "Editare mai confortabilă pentru Notițele voastre",
+    "Chat-ul se deschide direct la ultimele mesaje"
   ],
   "changelogEn": [
-    "Widget customization was fixed for Gradient and Fade",
-    "Swipeable color palettes for customization",
-    "App customization now has a more realistic preview",
-    "Custom theme remains selected after saving",
-    "Android notification for every level up",
-    "Fixed Notes layout when the keyboard opens",
-    "Event edit and delete actions were moved into Event Details",
-    "X & O improvements: game started notification, notifications, score and lower delay",
-    "New setting for game notifications",
-    "Fixed contrast in the update popup",
-    "Faster vibrations when sending love",
-    "Correct offline status in Your account and offline actions blocked"
+    "Fixed colors for all themes",
+    "Improved customization with gradient and HEX colors",
+    "Accent color now applies to the widget level bar",
+    "Undo and Redo for chat drawings",
+    "More comfortable editing for Notes",
+    "Chat now opens directly at the latest messages"
   ],
   "changelog": [
-    "Customization, notes, events, X & O, notifications, update popup and offline fixes"
+    "Theme, customization, notes and chat improvements"
   ],
   "forceUpdate": true
 }
