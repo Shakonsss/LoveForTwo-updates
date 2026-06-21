@@ -1,33 +1,31 @@
 {
-  "latestVersionCode": 28,
-  "latestVersionName": "0.19.0",
-  "minimumRequiredVersionCode": 28,
-  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.19.0/LoveForTwo-v0.19.0.apk",
+  "latestVersionCode": 29,
+  "latestVersionName": "0.20.0",
+  "minimumRequiredVersionCode": 29,
+  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.20.0/LoveForTwo-v0.20.0.apk",
   "apkSha256": "",
   "changelogRo": [
-    "Selectorul de culoare este mai ușor de folosit",
+    "Selector de culoare mai ușor de folosit",
     "Istoric pentru ultimele culori folosite",
-    "Resetare culori la tema Romantic",
-    "Personalizarea aplicației a fost simplificată",
-    "Widget-ul are istoric culori și culoare pentru bara de nivel",
-    "Notițele pot fi editate mai ușor cu tastatura deschisă",
-    "Sistem nou de niveluri până la Level 100",
-    "Punctele de notificare rămân roșii",
-    "Punct roșu la Jocuri când există invitație X & O"
+    "Îmbunătățiri pentru personalizarea widget-ului",
+    "Notițele sunt mai ușor de editat cu tastatura deschisă",
+    "Indicator pentru notificări ascunse în meniul principal",
+    "Realizări noi pentru jocuri, mesaje și întrebări",
+    "Streak pentru Întrebarea zilei în Statistici",
+    "Inima principală a fost îmbunătățită vizual"
   ],
   "changelogEn": [
-    "Color picker is easier to use",
+    "Easier-to-use color picker",
     "History for recently used colors",
-    "Reset colors to the Romantic theme",
-    "App customization was simplified",
-    "Widget has color history and level bar color",
+    "Widget customization improvements",
     "Notes are easier to edit with the keyboard open",
-    "New level system up to Level 100",
-    "Notification dots stay red",
-    "Red dot on Games when there is an X & O invite"
+    "Indicator for hidden notifications in the main menu",
+    "New achievements for games, messages and questions",
+    "Question of the Day streak in Statistics",
+    "Improved main heart visuals"
   ],
   "changelog": [
-    "Customization, notes, levels, notification dots and X & O invite improvements"
+    "Color picker, widget, notes, achievements, statistics and heart visual improvements"
   ],
   "forceUpdate": true
 }
