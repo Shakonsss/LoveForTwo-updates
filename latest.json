@@ -1,31 +1,35 @@
 {
-  "latestVersionCode": 29,
-  "latestVersionName": "0.20.0",
+  "latestVersionCode": 30,
+  "latestVersionName": "0.21.0",
   "minimumRequiredVersionCode": 29,
-  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.20.0/LoveForTwo-v0.20.0.apk",
+  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.21.0/LoveForTwo-v0.21.0.apk",
   "apkSha256": "",
   "changelogRo": [
-    "Selector de culoare mai ușor de folosit",
-    "Istoric pentru ultimele culori folosite",
-    "Îmbunătățiri pentru personalizarea widget-ului",
-    "Notițele sunt mai ușor de editat cu tastatura deschisă",
-    "Indicator pentru notificări ascunse în meniul principal",
-    "Realizări noi pentru jocuri, mesaje și întrebări",
-    "Streak pentru Întrebarea zilei în Statistici",
-    "Inima principală a fost îmbunătățită vizual"
+    "Joc nou Asta sau aia în BETA",
+    "Alegeți variante și vedeți câte potriviri aveți",
+    "Categorii de întrebări, inclusiv categorie opțională 18+",
+    "Joc salvat în Firebase și continuat mai târziu",
+    "Notificări când trebuie să răspunzi",
+    "Realizări noi pentru Asta sau aia",
+    "Bonus XP pentru iubirea reciprocă în zece minute",
+    "Chat îmbunătățit când tastatura este deschisă",
+    "Întrebări noi pentru Întrebarea zilei",
+    "Notificări interne și level-up fără duplicate"
   ],
   "changelogEn": [
-    "Easier-to-use color picker",
-    "History for recently used colors",
-    "Widget customization improvements",
-    "Notes are easier to edit with the keyboard open",
-    "Indicator for hidden notifications in the main menu",
-    "New achievements for games, messages and questions",
-    "Question of the Day streak in Statistics",
-    "Improved main heart visuals"
+    "New This or That game in BETA",
+    "Choose options and see how many matches you get",
+    "Question categories, including optional 18+ category",
+    "Game saved in Firebase and continued later",
+    "Notifications when you need to answer",
+    "New This or That achievements",
+    "XP bonus for returning love within ten minutes",
+    "Improved chat layout when the keyboard is open",
+    "New Question of the Day prompts",
+    "Internal and level-up notifications without duplicates"
   ],
   "changelog": [
-    "Color picker, widget, notes, achievements, statistics and heart visual improvements"
+    "This or That turn-based game, reciprocal love XP bonus and notification fixes"
   ],
-  "forceUpdate": true
+  "forceUpdate": false
 }
