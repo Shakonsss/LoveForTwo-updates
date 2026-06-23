@@ -1,27 +1,25 @@
 {
-  "latestVersionCode": 31,
-  "latestVersionName": "0.22.0",
+  "latestVersionCode": 32,
+  "latestVersionName": "0.23.0",
   "minimumRequiredVersionCode": 31,
-  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.22.0/LoveForTwo-v0.22.0.apk",
+  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.23.0/LoveForTwo-v0.23.0.apk",
   "apkSha256": "",
   "changelogRo": [
-    "Catalog Asta sau aia extins cu întrebări noi RO/EN",
-    "Categorii actualizate: Romantic, Picant 18+, Amuzant, Viață de zi cu zi, Planuri împreună și Mâncare",
-    "Runde noi pentru Asta sau aia: 10, 15 sau 20, cu 15 implicit",
-    "Realizările viitoare și Prima alegere nu mai sunt numărate sau recompensate",
-    "Îmbunătățiri pentru tema Light, avataruri, Home, Chat și cardurile jocurilor viitoare",
-    "Corecții vizuale pentru update obligatoriu, status și indicatorii de notificare"
+    "Îmbunătățiri pentru reply în Chat",
+    "Opțiune de ștergere a reacției proprii",
+    "Ajustări pentru jocul Asta sau aia",
+    "Corectări pentru Realizări",
+    "Îmbunătățiri vizuale pentru Jocuri și teme"
   ],
   "changelogEn": [
-    "Expanded This or That catalog with new RO/EN questions",
-    "Updated categories: Romantic, Spicy 18+, Funny, Everyday life, Future plans and Food",
-    "New This or That rounds: 10, 15 or 20, with 15 as default",
-    "Future achievements and First choice are no longer counted or rewarded",
-    "Improvements for Light theme, avatars, Home, Chat and future game cards",
-    "Visual fixes for mandatory update, mood status and notification indicators"
+    "Improvements for Chat replies",
+    "Option to remove your own reaction",
+    "Adjustments for This or That",
+    "Achievements fixes",
+    "Visual improvements for Games and themes"
   ],
   "changelog": [
-    "Expanded This or That, achievement cleanup, visual polish and mandatory update config"
+    "Chat, This or That, Achievements and Games improvements"
   ],
-  "forceUpdate": true
+  "forceUpdate": false
 }
