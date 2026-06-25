@@ -1,25 +1,29 @@
 {
-  "latestVersionCode": 33,
-  "latestVersionName": "0.24.0",
-  "minimumRequiredVersionCode": 32,
-  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.24.0/LoveForTwo-v0.24.0.apk",
+  "latestVersionCode": 34,
+  "latestVersionName": "0.25.0",
+  "minimumRequiredVersionCode": 33,
+  "apkUrl": "https://github.com/Shakonsss/LoveForTwo-updates/releases/download/v0.25.0/LoveForTwo-v0.25.0.apk",
   "apkSha256": "",
   "changelogRo": [
-    "Îmbunătățiri pentru reply în Chat",
-    "Opțiune de ștergere a reacției proprii",
-    "Ajustări pentru jocul Asta sau aia",
-    "Corectări pentru Realizări",
-    "Îmbunătățiri vizuale pentru Jocuri și teme"
+    "Trimiterea inimii răspunde mai rapid",
+    "Îmbunătățiri pentru XP-ul bonus la iubire",
+    "Îmbunătățiri pentru reply și status mesaje în Chat",
+    "Corectări pentru Notițe și italic",
+    "Îmbunătățiri pentru selectorul de culoare și HEX în widget",
+    "Întrebări noi pentru Întrebarea zilei",
+    "Corectări pentru notificări și săgeata de scroll"
   ],
   "changelogEn": [
-    "Improvements for Chat replies",
-    "Option to remove your own reaction",
-    "Adjustments for This or That",
-    "Achievements fixes",
-    "Visual improvements for Games and themes"
+    "Faster heart sending feedback",
+    "Improvements for love bonus XP",
+    "Improvements for Chat replies and message status",
+    "Fixes for Notes and italic formatting",
+    "Improvements for color picker and HEX input in widget",
+    "New Questions of the Day",
+    "Fixes for notifications and scroll indicator"
   ],
   "changelog": [
-    "Chat, This or That, Achievements and Games improvements"
+    "Heart, XP, Chat, Notes, widget, questions and notification fixes"
   ],
   "forceUpdate": false
 }
